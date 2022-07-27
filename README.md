@@ -1,2 +1,3 @@
 # cousera-test
-Cousera test repository
+Cousera test solution repository
+https://cgekejiuba.github.io/mod2Solution/
